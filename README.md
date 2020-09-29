@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>नमस्ते (Namaste)🙏🏻, I'm Suraj Bahadur! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+
+
 [![](https://img.shields.io/badge/LinkedIn-surajbahadur-blue)](https://www.linkedin.com/in/surajbahadur/)
 [![](https://img.shields.io/badge/Gmail-surajbahadur58@gmail.com-red)](mailto:surajbahadur58@gmail.com)
 
 [![SurajBahadur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajbahadur591&show_icons=true)](https://github.com/surajbahadur591)
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ⭐️ From [@surajbahadur591](https://github.com/surajbahadur591)
