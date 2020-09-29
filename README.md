@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 ## नमस्ते 🙏, I'm ASHRAF K.M 
 ## Full Stack Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
-⭐️ From [@ashrafkm](https://github.com/ashrafkm)
+[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/surajbahadur/)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:surajbahadur58@gmail.com)
+⭐️ From [@surajbahadur591](https://github.com/ashrafkm)
