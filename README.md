@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/LinkedIn-surajbahadur-blue)](https://www.linkedin.com/in/surajbahadur/)
 [![](https://img.shields.io/badge/Gmail-surajbahadur58@gmail.com-red)](mailto:surajbahadur58@gmail.com)
 
+[![SurajBahadur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajbahadur591&show_icons=true)](https://github.com/surajbahadur591)
+
+
 📊 **This week I spent my time on** 
 
 ```text
