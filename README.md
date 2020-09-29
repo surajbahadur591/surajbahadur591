@@ -51,6 +51,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=surajbahadur591&layout=compact&langs_count=8&hide=java,r&theme=react "/>
 </a>
 </p>
-<p align="center">⭐️ From <a href="https://github.com/selimdoyranli">@selimdoyranli</a></p>
+<img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
 
 ⭐️ From [@surajbahadur591](https://github.com/surajbahadur591)
