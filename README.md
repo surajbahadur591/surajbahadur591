@@ -19,6 +19,15 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/LinkedIn-surajbahadur-blue)](https://www.linkedin.com/in/surajbahadur/)
 [![](https://img.shields.io/badge/Gmail-surajbahadur58@gmail.com-red)](mailto:surajbahadur58@gmail.com)
 
+## About me
+- 🌱 Loves Python, Javascript, Java, Cloud && Music
+- 🏢 I'm currently working on  **Javascript Project**
+- ⚙️ I use daily: `.react`, `.py` `.js`, `.html`, `.css`, `.psd`
+- 🌱 Learning all about **React & Firebase**
+- 🎙  Youtube Channel (https://www.youtube.com/playlist?list=PLLXPV3-YsvzTSuYYr6EkIQyvbzbvIQjkh)
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 📒 Learning && Living
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
