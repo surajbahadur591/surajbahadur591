@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🏢 I'm currently working on  **Javascript Project**
 - ⚙️ I use daily: `.react`, `.py` `.js`, `.html`, `.css`, `.psd`
 - 🌱 Learning all about **React & Firebase**
-- 🎙  Youtube Channel (https://www.youtube.com/playlist?list=PLLXPV3-YsvzTSuYYr6EkIQyvbzbvIQjkh)
+- 🎙  Youtube Channel (https://www.youtube.com/SurajBahadur?sub_confirmation=1)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 - 📒 Learning && Living
 
