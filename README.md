@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 ## Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/surajbahadur/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:surajbahadur58@gmail.com)
-⭐️ From [@surajbahadur591](https://github.com/ashrafkm)
+[![](https://img.shields.io/badge/Gmail-surajbahadur58@gmail.com-red)](mailto:surajbahadur58@gmail.com)
+⭐️ From [@surajbahadur591](https://github.com/surajbahadur591)
