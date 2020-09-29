@@ -35,7 +35,12 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 
-[![SurajBahadur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajbahadur591&show_icons=true)](https://github.com/surajbahadur591)
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+[![SurajBahadur's GitHub Stats]
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&hide=java,r&theme=react "/>
+</a>
+</p>
 
 ⭐️ From [@surajbahadur591](https://github.com/surajbahadur591)
