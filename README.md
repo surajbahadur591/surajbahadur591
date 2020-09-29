@@ -2,7 +2,7 @@
 <!--
 **surajbahadur591/surajbahadur591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## नमस्ते 🙏, I'm Suraj.
+## नमस्ते 🙏
 ## Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
