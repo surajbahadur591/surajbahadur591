@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 ## नमस्ते 🙏, I'm ASHRAF K.M 
 ## Full Stack Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-suraj bahadur-blue)](https://www.linkedin.com/in/surajbahadur/)
+[![](https://img.shields.io/badge/LinkedIn-surajbahadur-blue)](https://www.linkedin.com/in/surajbahadur/)
 [![](https://img.shields.io/badge/Gmail-surajbahadur58@gmail.com-red)](mailto:surajbahadur58@gmail.com)
 ⭐️ From [@surajbahadur591](https://github.com/surajbahadur591)
