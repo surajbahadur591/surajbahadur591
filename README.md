@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>नमस्ते (Namaste)🙏🏻! 
+<h2>नमस्ते (Namaste)🙏🏻! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
   
 [![](https://img.shields.io/badge/LinkedIn-surajbahadur-blue)](https://www.linkedin.com/in/surajbahadur/)
 [![](https://img.shields.io/badge/Gmail-surajbahadur58@gmail.com-red)](mailto:surajbahadur58@gmail.com)
-## Player Name : Suraj Bahadur <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
+## Player Name : Suraj Bahadur 
 - 🌱 Loves Python, Javascript, Java, Cloud && Music
 - 🏢 I'm currently working on  **Javascript Project**
 - ⚙️ I use daily: `.react`, `.py` `.js`, `.html`, `.css`, `.psd`
