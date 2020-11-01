@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Gmail-surajbahadur58@gmail.com-red)](mailto:surajbahadur58@gmail.com)
 
 ## Player Name : Suraj Bahadur 
-- ⬆ **Level - 23+**
-- ➕ **New Skill Added - Graphql, React**
+- ⬆ **Level - 22+**
+- ➕ **New Skills Unlocked - Graphql, React**
 - 🌱 Loves Python, Javascript, Java, Cloud && Music
 - 🏢 I'm currently working on  **Javascript Project**
 - ⚙️ I use daily: `.react`, `.py` `.js`, `.html`, `.css`, `.psd`
