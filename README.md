@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🚀 Learning all about **React & Firebase**
 - 🎙  Youtube Channel [Wow!!](https://www.youtube.com/SurajBahadur?sub_confirmation=1)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
-- 📒 Learning && Living
+- 📒 **Learning && Living**
 
 ### 🛠 &nbsp;Tech Stack
 
