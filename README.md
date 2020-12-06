@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - ⬆ **Level - 22+**
 - ➕ **New Skills Unlocked - Graphql, React**
 - 🌱 Loves Python, Javascript, Java, Cloud && Music
+- 🚀 Learning **Data Structures & Algorithms** to solve bigger problems
 - 🏢 I'm currently working on  **Javascript Project**
 - ⚙️ I use daily: `.react`, `.py` `.js`, `.html`, `.css`, `.psd`
-- 🚀 Learning all about **React & Firebase**
 - 🎙  Youtube Channel [Wow!!](https://www.youtube.com/SurajBahadur?sub_confirmation=1)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 - 📒 **Learning && Living**
