@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ➕ **New Skills Unlocked - Graphql, React**
 - 🌱 Loves Python, Javascript, Java, Cloud && Music
 - 🚀 Learning **Data Structures & Algorithms** to solve bigger problems
-- 🏢 I'm currently working on  **Javascript Project**
+- 🏢 I'm currently working at  **Tata Consultancy Service (TCS)**
 - ⚙️ I use daily: `.react`, `.py` `.js`, `.html`, `.css`, `.psd`
 - 🎙  Youtube Channel [Wow!!](https://www.youtube.com/SurajBahadur?sub_confirmation=1)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
