@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🚀 Learning **Data Structures & Algorithms** to solve bigger problems
 - 🏢 I'm currently working at  [**Tata Consultancy Service (TCS)**](https://www.tcs.com/)
 - ⚙️ I use daily: `.react`, `.py` `.js`, `.html`, `.css`, `.psd`
-- 🎙  Youtube Channel [Wow!!](https://www.youtube.com/SurajBahadur?sub_confirmation=1)
+- 🎙  Youtube Channel [->](https://www.youtube.com/SurajBahadur?sub_confirmation=1)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 - 📒 **Learning && Living**
 
