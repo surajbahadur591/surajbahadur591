@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Gmail-surajbahadur58@gmail.com-red)](mailto:surajbahadur58@gmail.com)
 
 ## Player Name : Suraj Bahadur 
-- ⬆ **Level - 23+**
-- ➕ **New Skills Unlocked - Graphql, React**
+- ⬆ **Level - 24+**
+- ➕ **New Skills Unlocked - AWS, Graphql, React**
 - 🌱 Loves Python, Javascript, Java, Cloud && Music
 - 🚀 Learning **Data Structures & Algorithms** to solve bigger problems
 - 🏢 I'm currently working at  [**Tata Consultancy Service (TCS)**](https://www.tcs.com/)
