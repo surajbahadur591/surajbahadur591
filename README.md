@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2>नमस्ते (Namaste)🙏🏻! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
   
-[![](https://img.shields.io/badge/LinkedIn-surajbahadur-blue)](https://www.linkedin.com/in/surajbahadur/)
+[![](https://img.shields.io/badge/LinkedIn-surajbahadur-blue)](https://www.linkedin.com/in/suraj-bahadur-kumal/)
 [![](https://img.shields.io/badge/Gmail-surajbahadur58@gmail.com-red)](mailto:surajbahadur58@gmail.com)
 
 ## Player Name : Suraj Bahadur 
@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - ➕ **New Skills Unlocked - AWS, Redis, React**
 - 🌱 Loves Python, Javascript, Cloud && Music
 - 🚀 Learning **Data Structures & Algorithms** to solve bigger problems
-- 🏢 I'm currently working at  [**Tata Consultancy Service (TCS)**](https://www.tcs.com/)
 - ⚙️ I use daily: `node`, `.py` `.js`, `.psd`
 - 🎙  Youtube Channel [wow!](https://www.youtube.com/SurajBahadur?sub_confirmation=1)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
