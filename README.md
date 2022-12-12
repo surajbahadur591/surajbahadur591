@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚙️ I use daily: `node`, `.py` `.js`, `.psd`
 - 🎙  Youtube Channel [wow!](https://www.youtube.com/SurajBahadur?sub_confirmation=1)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
-- 🏢 You can reach me at  [**Linkedin**]([https://www.tcs.com/](https://www.linkedin.com/in/suraj-bahadur-kumal/))
+- 🏢 You can reach me at  [**Linkedin**](https://www.linkedin.com/in/suraj-bahadur-kumal/)
 - 📒 **Learning & Living**
 
 ### 🛠 &nbsp;Tech Stack
