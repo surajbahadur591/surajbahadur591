@@ -48,12 +48,6 @@ Here are some ideas to get you started:
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 
 <p align="center">
-<a href="https://github.com/surajbahadur591">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=surajbahadur591&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=surajbahadur591&layout=compact&langs_count=8&hide=java,r&theme=react "/>
-</a>
-</p>
-<p align="center">
   
   <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
 </p>
