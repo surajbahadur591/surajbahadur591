@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Player Name : Suraj Bahadur 
 - ⬆ **Level - 24+**
-- ➕ **New Skills Unlocked - AWS, Redis, React**
+- ➕ **New Skills Unlocked - AWS, Redis, Next JS**
 - 🌱 Loves Python, Javascript, Cloud && Music
 - 🚀 Learning **Data Structures & Algorithms** to solve bigger problems
 - ⚙️ I use daily: `node`, `.py` `.js`, `.psd`
