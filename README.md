@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ## Player Name : Suraj Bahadur 
 - ⬆ **Level - 24+**
 - ➕ **New Skills Unlocked - AWS, Redis, Next JS**
-- 🌱 Loves Python, Javascript, Cloud && Music
+- 🌱 Loves Javascript, Cloud && Music
 - 🚀 Learning **Data Structures & Algorithms** to solve bigger problems
-- ⚙️ I use daily: `node`, `.py` `.js`, `.psd`
+- ⚙️ I use daily: `node`, `.tsx` `.js`, `.psd`
 - 🎙  Youtube Channel [wow!](https://www.youtube.com/SurajBahadur?sub_confirmation=1)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 - 🏢 You can reach me at  [**Linkedin**](https://www.linkedin.com/in/suraj-bahadur-kumal/)
